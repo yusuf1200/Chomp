@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Layout
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Window\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y
+comment1.target=Layout(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Window\r\n
+comment2.params=
+comment2.target=boolean\ Run()
+comment3.params=posx\ posy
+comment3.target=void\ EatChoc(int,\ int)
+comment4.params=posx\ posy
+comment4.target=void\ user(int,\ int)
+comment5.params=
+comment5.target=void\ Comp()
+numComments=6
